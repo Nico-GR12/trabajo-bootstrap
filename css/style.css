@@ -1,0 +1,23 @@
+.logo{
+    width: 60px;
+}
+
+.dog img{
+    width: 100%;
+    height: 750px;
+}
+
+.product img{
+    max-width: 100%;
+}
+
+iframe{
+    width: 100%;
+}
+
+@media(max-width: 762px){
+    .dog img{
+        width: 100%;
+        height: 330px;
+    }
+}
